@@ -1,0 +1,5 @@
+{
+  "name": "Pep Tonic Vitality Survey",
+  "description": "A short, interactive survey to help users assess their energy and vitality levels, culminating in a personalized recommendation to learn about the Pep Tonic product.",
+  "requestFramePermissions": []
+}
